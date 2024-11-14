@@ -1,0 +1,18 @@
+[
+    {
+        "model": "backend_api.testcardtypes",
+        "pk": 1,
+        "fields": {
+            "name": "Test",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.testcardtypes",
+        "pk": 2,
+        "fields": {
+          "name": "Live",
+          "active": true
+        }
+    }
+]

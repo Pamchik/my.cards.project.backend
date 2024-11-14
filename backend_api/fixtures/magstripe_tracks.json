@@ -1,0 +1,20 @@
+[
+    {
+        "model": "backend_api.magstripetracks",
+        "pk": 1,
+        "fields": {
+            "name_rus": "2 дорожки",
+            "name_eng": "2 tracks",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.magstripetracks",
+        "pk": 2,
+        "fields": {
+          "name_rus": "3 дорожки",
+          "name_eng": "3 tracks",
+          "active": true
+        }
+      }
+]

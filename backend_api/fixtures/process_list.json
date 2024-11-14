@@ -1,0 +1,101 @@
+[
+    {
+        "model": "backend_api.processlist",
+        "pk": 1,
+        "fields": {
+            "url_name": "input-pictures",
+            "component_name": "Исходники",
+            "position_number": 1
+        }
+    },
+    {
+        "model": "backend_api.processlist",
+        "pk": 2,
+        "fields": {
+            "url_name": "offers",
+            "component_name": "КП",
+            "position_number": 2
+        }
+    },
+    {
+        "model": "backend_api.processlist",
+        "pk": 3,
+        "fields": {
+            "url_name": "contracts",
+            "component_name": "Договоры",
+            "position_number": 3
+        }
+    },
+    {
+        "model": "backend_api.processlist",
+        "pk": 4,
+        "fields": {
+            "url_name": "annexes",
+            "component_name": "Приложения",
+            "position_number": 4
+        }
+    },
+    {
+        "model": "backend_api.processlist",
+        "pk": 5,
+        "fields": {
+            "url_name": "payments",
+            "component_name": "Оплаты",
+            "position_number": 5
+        }
+    },
+    {
+        "model": "backend_api.processlist",
+        "pk": 6,
+        "fields": {
+            "url_name": "purchase-orders",
+            "component_name": "PO",
+            "position_number": 6
+        }
+    },
+    {
+        "model": "backend_api.processlist",
+        "pk": 7,
+        "fields": {
+            "url_name": "tests",
+            "component_name": "Тестирования",
+            "position_number": 7
+        }
+    },
+    {
+        "model": "backend_api.processlist",
+        "pk": 8,
+        "fields": {
+            "url_name": "payment-system",
+            "component_name": "Платежные системы",
+            "position_number": 8
+        }
+    },
+    {
+        "model": "backend_api.processlist",
+        "pk": 9,
+        "fields": {
+            "url_name": "proofs",
+            "component_name": "Макеты",
+            "position_number": 9
+        }
+    },
+    {
+        "model": "backend_api.processlist",
+        "pk": 10,
+        "fields": {
+            "url_name": "production",
+            "component_name": "Производство",
+            "position_number": 10
+        }
+    },
+    {
+        "model": "backend_api.processlist",
+        "pk": 11,
+        "fields": {
+            "url_name": "deliveries",
+            "component_name": "Доставки",
+            "position_number": 11
+        }
+    }
+]

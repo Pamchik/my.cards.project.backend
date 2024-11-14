@@ -1,0 +1,9 @@
+[
+    {
+        "model": "backend_api.startyear",
+        "pk": 1,
+        "fields": {
+            "year_number": 2020
+        }
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "model": "backend_api.paymenttypes",
+        "pk": 1,
+        "fields": {
+            "name": "Предоплата",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.paymenttypes",
+        "pk": 2,
+        "fields": {
+          "name": "Постоплата",
+          "active": true
+        }
+    }
+]

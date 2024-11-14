@@ -1,0 +1,66 @@
+[
+    {
+        "model": "backend_api.keyexchangestatuses",
+        "pk": 1,
+        "fields": {
+            "name": "Проект",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.keyexchangestatuses",
+        "pk": 2,
+        "fields": {
+            "name": "Форма запрошена",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.keyexchangestatuses",
+        "pk": 3,
+        "fields": {
+            "name": "Подготовка ключей",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.keyexchangestatuses",
+        "pk": 4,
+        "fields": {
+            "name": "Доставка компонентов",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.keyexchangestatuses",
+        "pk": 5,
+        "fields": {
+            "name": "Установка компонентов",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.keyexchangestatuses",
+        "pk": 6,
+        "fields": {
+            "name": "Завершено (успешно)",
+            "active": true
+        }
+    },    
+    {
+        "model": "backend_api.keyexchangestatuses",
+        "pk": 7,
+        "fields": {
+            "name": "Завершено (ошибка)",
+            "active": true
+        }
+    },    
+    {
+        "model": "backend_api.keyexchangestatuses",
+        "pk": 8,
+        "fields": {
+            "name": "На паузе",
+            "active": true
+        }
+    }
+]

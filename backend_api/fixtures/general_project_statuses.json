@@ -1,0 +1,58 @@
+[
+    {
+        "model": "backend_api.generalprojectstatuses",
+        "pk": 1,
+        "fields": {
+            "name": "Проект",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.generalprojectstatuses",
+        "pk": 2,
+        "fields": {
+          "name": "Подготовка",
+          "active": true
+        }
+    },
+    {
+        "model": "backend_api.generalprojectstatuses",
+        "pk": 3,
+        "fields": {
+          "name": "Запущен",
+          "active": true
+        }
+    },
+    {
+        "model": "backend_api.generalprojectstatuses",
+        "pk": 4,
+        "fields": {
+          "name": "Закрывающие документы",
+          "active": true
+        }
+    },
+    {
+        "model": "backend_api.generalprojectstatuses",
+        "pk": 5,
+        "fields": {
+          "name": "Закрыт",
+          "active": true
+        }
+    },
+    {
+        "model": "backend_api.generalprojectstatuses",
+        "pk": 6,
+        "fields": {
+          "name": "Приостановлен",
+          "active": true
+        }
+    },
+    {
+        "model": "backend_api.generalprojectstatuses",
+        "pk": 7,
+        "fields": {
+          "name": "В архиве",
+          "active": true
+        }
+    }
+]

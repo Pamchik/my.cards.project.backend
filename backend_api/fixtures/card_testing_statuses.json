@@ -1,0 +1,66 @@
+[
+    {
+        "model": "backend_api.cardtestingstatuses",
+        "pk": 1,
+        "fields": {
+            "name": "Проект",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.cardtestingstatuses",
+        "pk": 2,
+        "fields": {
+            "name": "Карты запрошены",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.cardtestingstatuses",
+        "pk": 3,
+        "fields": {
+            "name": "Доставка карт",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.cardtestingstatuses",
+        "pk": 4,
+        "fields": {
+            "name": "Хранение в IBS Project",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.cardtestingstatuses",
+        "pk": 5,
+        "fields": {
+            "name": "Тестирование в Банке",
+            "active": true
+        }
+    },    
+    {
+        "model": "backend_api.cardtestingstatuses",
+        "pk": 6,
+        "fields": {
+            "name": "Завершено (успешно)",
+            "active": true
+        }
+    },    
+    {
+        "model": "backend_api.cardtestingstatuses",
+        "pk": 7,
+        "fields": {
+            "name": "Завершено (ошибка)",
+            "active": true
+        }
+    },    
+    {
+        "model": "backend_api.cardtestingstatuses",
+        "pk": 8,
+        "fields": {
+            "name": "На паузе",
+            "active": true
+        }
+    }
+]

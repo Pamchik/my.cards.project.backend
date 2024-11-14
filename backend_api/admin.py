@@ -1,0 +1,74 @@
+from django.contrib import admin
+
+# Register your models here.
+from .models import (
+    ProjectLine, 
+    Chips, 
+    Banks, 
+    BankEmployees, 
+    ProcessList,
+    ProcessData,
+    PaymentSystems,
+    ProductCategories,
+    Countries,
+    Vendors,
+    VendorEmployees,
+    MaterialTypes,
+    MaterialColors,
+    Effects,
+    ProductTypes,
+    GeneralProjectStatuses,
+    ProcessStatuses,
+    FilesStatuses,
+    MagstripeColors,
+    MagstripeTracks,
+    EffectsMatching,
+    VendorManufactureCountries,
+    BankPrices,
+    VendorPrices,
+    Gallery,
+    Files,
+    KeyExchangeProjects,
+    KeyExchangeStatuses,
+    CardTestingProjects,
+    CardTestingStatuses,
+    TestCardTransfer,
+    TestCardTypes,
+    ProcessingCenters,
+    PesroScriptVendors,
+)
+
+admin.site.register(ProjectLine)
+admin.site.register(Chips)
+admin.site.register(Banks)
+admin.site.register(Vendors)
+admin.site.register(VendorEmployees)
+admin.site.register(VendorManufactureCountries)
+admin.site.register(Countries)
+admin.site.register(BankEmployees)
+admin.site.register(ProcessList)
+admin.site.register(ProcessData)
+admin.site.register(PaymentSystems)
+admin.site.register(ProductCategories)
+admin.site.register(ProductTypes)
+admin.site.register(MaterialTypes)
+admin.site.register(MaterialColors)
+admin.site.register(Effects)
+admin.site.register(GeneralProjectStatuses)
+admin.site.register(ProcessStatuses)
+admin.site.register(FilesStatuses)
+admin.site.register(MagstripeColors)
+admin.site.register(MagstripeTracks)
+admin.site.register(EffectsMatching)
+admin.site.register(BankPrices)
+admin.site.register(VendorPrices)
+admin.site.register(Gallery)
+admin.site.register(Files)
+admin.site.register(KeyExchangeProjects)
+admin.site.register(KeyExchangeStatuses)
+admin.site.register(CardTestingStatuses)
+admin.site.register(CardTestingProjects)
+admin.site.register(TestCardTransfer)
+admin.site.register(TestCardTypes)
+admin.site.register(ProcessingCenters)
+admin.site.register(PesroScriptVendors)

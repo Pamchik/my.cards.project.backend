@@ -1,0 +1,110 @@
+[
+    {
+        "model": "backend_api.monthlist",
+        "pk": 1,
+        "fields": {
+            "number": 1,
+            "name": "Январь",
+            "name_roditelskiy_padezh": "Января"
+        }
+    },
+    {
+        "model": "backend_api.monthlist",
+        "pk": 2,
+        "fields": {
+            "number": 2,
+            "name": "Февраль",
+            "name_roditelskiy_padezh": "Февраля"
+        }
+    },
+    {
+        "model": "backend_api.monthlist",
+        "pk": 3,
+        "fields": {
+            "number": 3,
+            "name": "Март",
+            "name_roditelskiy_padezh": "Марта"
+        }
+    },
+    {
+        "model": "backend_api.monthlist",
+        "pk": 4,
+        "fields": {
+            "number": 4,
+            "name": "Апрель",
+            "name_roditelskiy_padezh": "Апреля"
+        }
+    },
+    {
+        "model": "backend_api.monthlist",
+        "pk": 5,
+        "fields": {
+            "number": 5,
+            "name": "Май",
+            "name_roditelskiy_padezh": "Мая"
+        }
+    },
+    {
+        "model": "backend_api.monthlist",
+        "pk": 6,
+        "fields": {
+            "number": 6,
+            "name": "Июнь",
+            "name_roditelskiy_padezh": "Июня"
+        }
+    },
+    {
+        "model": "backend_api.monthlist",
+        "pk": 7,
+        "fields": {
+            "number": 7,
+            "name": "Июль",
+            "name_roditelskiy_padezh": "Июля"
+        }
+    },
+    {
+        "model": "backend_api.monthlist",
+        "pk": 8,
+        "fields": {
+            "number": 8,
+            "name": "Август",
+            "name_roditelskiy_padezh": "Августа"
+        }
+    },
+    {
+        "model": "backend_api.monthlist",
+        "pk": 9,
+        "fields": {
+            "number": 9,
+            "name": "Сентябрь",
+            "name_roditelskiy_padezh": "Сентября"
+        }
+    },
+    {
+        "model": "backend_api.monthlist",
+        "pk": 10,
+        "fields": {
+            "number": 10,
+            "name": "Октябрь",
+            "name_roditelskiy_padezh": "Октября"
+        }
+    },
+    {
+        "model": "backend_api.monthlist",
+        "pk": 11,
+        "fields": {
+            "number": 11,
+            "name": "Ноябрь",
+            "name_roditelskiy_padezh": "Ноября"
+        }
+    },
+    {
+        "model": "backend_api.monthlist",
+        "pk": 12,
+        "fields": {
+            "number": 12,
+            "name": "Декабрь",
+            "name_roditelskiy_padezh": "Декабря"
+        }
+    }
+]

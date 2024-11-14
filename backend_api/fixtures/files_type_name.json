@@ -1,0 +1,23 @@
+[
+    {
+        "model": "backend_api.filestypename",
+        "pk": 1,
+        "fields": {
+            "name": "image"
+        }
+    },
+    {
+        "model": "backend_api.filestypename",
+        "pk": 2,
+        "fields": {
+          "name": "video"
+        }
+    },
+    {
+        "model": "backend_api.filestypename",
+        "pk": 3,
+        "fields": {
+          "name": "document"
+        }
+    }
+]

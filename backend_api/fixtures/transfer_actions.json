@@ -1,0 +1,18 @@
+[
+    {
+        "model": "backend_api.transferactions",
+        "pk": 1,
+        "fields": {
+            "name": "Добавление",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.transferactions",
+        "pk": 2,
+        "fields": {
+          "name": "Перемещение",
+          "active": true
+        }
+    }
+]

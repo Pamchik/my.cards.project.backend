@@ -1,0 +1,29 @@
+[
+    {
+        "model": "backend_api.processstatuses",
+        "pk": 1,
+        "fields": {
+            "name_rus": "Не начато",
+            "name_eng": "Not-started",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.processstatuses",
+        "pk": 2,
+        "fields": {
+          "name_rus": "В процессе",
+          "name_eng": "In-progress",
+          "active": true
+        }
+    },
+    {
+        "pk": 3,
+        "model": "backend_api.processstatuses",
+        "fields": {
+          "name_rus": "Завершено",
+          "name_eng": "Completed",
+          "active": true
+        }
+    }
+]

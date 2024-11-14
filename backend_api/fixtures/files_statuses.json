@@ -1,0 +1,74 @@
+[
+    {
+        "model": "backend_api.filesstatuses",
+        "pk": 1,
+        "fields": {
+            "name": "Новый",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.filesstatuses",
+        "pk": 2,
+        "fields": {
+          "name": "На согласовании (IBS)",
+          "active": true
+        }
+    },
+    {
+        "model": "backend_api.filesstatuses",
+        "pk": 3,
+        "fields": {
+          "name": "Согласовано (IBS)",
+          "active": true
+        }
+    },
+    {
+        "model": "backend_api.filesstatuses",
+        "pk": 4,
+        "fields": {
+          "name": "Отправлено (клиент)",
+          "active": true
+        }
+    },
+    {
+        "model": "backend_api.filesstatuses",
+        "pk": 5,
+        "fields": {
+          "name": "Согласовано (клиент)",
+          "active": true
+        }
+    },
+    {
+        "model": "backend_api.filesstatuses",
+        "pk": 6,
+        "fields": {
+          "name": "Отправлено (вендор)",
+          "active": true
+        }
+    },
+    {
+        "model": "backend_api.filesstatuses",
+        "pk": 7,
+        "fields": {
+          "name": "Получена эл.копия",
+          "active": true
+        }
+    },
+    {
+        "model": "backend_api.filesstatuses",
+        "pk": 8,
+        "fields": {
+          "name": "Получен оригинал",
+          "active": true
+        }
+    },
+    {
+      "model": "backend_api.filesstatuses",
+      "pk": 9,
+      "fields": {
+        "name": "В архиве",
+        "active": true
+      }
+  }
+]

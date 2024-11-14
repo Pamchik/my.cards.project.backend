@@ -1,0 +1,29 @@
+[
+    {
+        "model": "backend_api.currencies",
+        "pk": 1,
+        "fields": {
+            "name": "Euro",
+            "abbreviation": "EUR",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.currencies",
+        "pk": 2,
+        "fields": {
+            "name": "Доллар США",
+            "abbreviation": "USD",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.currencies",
+        "pk": 3,
+        "fields": {
+            "name": "Тенге",
+            "abbreviation": "KZT",
+            "active": true
+        }
+    }
+]

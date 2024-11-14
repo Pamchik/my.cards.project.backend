@@ -1,0 +1,20 @@
+[
+    {
+        "model": "backend_api.chipcolors",
+        "pk": 1,
+        "fields": {
+            "name_rus": "Серебряный",
+            "name_eng": "Silver",
+            "active": true
+        }
+    },
+    {
+        "model": "backend_api.chipcolors",
+        "pk": 2,
+        "fields": {
+          "name_rus": "Золотой",
+          "name_eng": "Gold",
+          "active": true
+        }
+    }
+]
